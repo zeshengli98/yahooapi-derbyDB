@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Mar 24 16:00:55 EDT 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance a816c00e-017f-bd84-8cf0-0000075903a0 
+on database directory /Users/zesheng.li/Duke Course Program/Fintech512 JAVA/JavaDerbyTest/bigbuckstest with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@42110406 
+Loaded from file:/Users/zesheng.li/Duke%20Course%20Program/Fintech512%20JAVA/JavaDerbyTest/libs/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=17.0.1+12-LTS-39
+user.dir=/Users/zesheng.li/Duke Course Program/Fintech512 JAVA/JavaDerbyTest/libs
+os.name=Mac OS X
+os.arch=aarch64
+os.version=12.0.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
